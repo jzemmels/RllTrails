@@ -1,5 +1,5 @@
 # RllTrails
-A mobile-friendly shiny app to visualize custom AllTrails Lists.
+A mobile-friendly shiny app to visualize custom AllTrails Lists. (Forgive the terrible naming scheme)
 
 The map UI on the Android version of AllTrails sucks (at least on my phone) and the app doesn't allow you to visualize a user-created list of trails on a map.
 I built this app using the `shiny` and `shinyMobile` R packages; the former constructs interactive web applications and the latter converts an application to a mobile-friendly interface.
