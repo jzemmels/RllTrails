@@ -1,5 +1,5 @@
 # RllTrails
-A mobile-friendly shiny app to visualize custom AllTrails Lists. (Forgive the terrible naming scheme.)
+A mobile-friendly shiny app to visualize custom AllTrails Lists. (Forgive the terrible name.)
 
 The app is available here: [https://jzemmels.shinyapps.io/RllTrails/](https://jzemmels.shinyapps.io/RllTrails/)
 
