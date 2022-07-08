@@ -1,5 +1,6 @@
 # RllTrails
 A mobile-friendly shiny app to visualize custom AllTrails Lists. (Forgive the terrible naming scheme.)
+
 The app is available here: [https://jzemmels.shinyapps.io/RllTrails/](https://jzemmels.shinyapps.io/RllTrails/)
 
 The map UI on the Android version of AllTrails sucks (at least on my phone) and the app doesn't allow you to visualize a user-created list of trails on a map.
