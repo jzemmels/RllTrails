@@ -5,9 +5,9 @@ account: jzemmels
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6575508
-bundleId: 6058933
+bundleId: 6080402
 url: https://jzemmels.shinyapps.io/RllTrails/
-when: 1656619006.1116
-lastSyncTime: 1656619006.1116
+when: 1657247900.30077
+lastSyncTime: 1657247900.30078
 asMultiple: FALSE
 asStatic: FALSE
